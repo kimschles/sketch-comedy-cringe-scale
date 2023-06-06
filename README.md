@@ -6,7 +6,8 @@
 journey
     title Sketch Comedy Cringe Scale
     section Slightly Uncomfortable 
-      Portlandia: 8
+      Portlandia: 8 : Kim
+      Chappelle's Show: 8 : Kyle
       Key & Peele: 7
       Inside Amy Schumer: 6
       Chappelle’s Show: 5 
